@@ -37,5 +37,5 @@ local warningTime = 30 -- Time before kick to show warning (default: 30 seconds)
 This script is open-source and free to use. Feel free to modify it to fit your server’s needs.
 
 ---
-🚀 **Created by [Your Name]** | FiveM Standalone Script
+🚀 **Created by Blacky** | FiveM Standalone Script
 
